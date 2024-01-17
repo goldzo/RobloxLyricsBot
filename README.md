@@ -1,8 +1,8 @@
 # Lyrics Bot Script
 
 - This Lua script is designed for a lyrics bot in a game. The bot fetches lyrics using an external API and plays them in the game chat.
-- HELP: https://discord.gg/XC96e3m36c
-- STATUS: ❎
+- Support or help with the script: https://discord.gg/XC96e3m36c
+- Status of the script: ❎ currently fixing
 
 ## Setup
 
