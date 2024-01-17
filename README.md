@@ -2,6 +2,7 @@
 
 This Lua script is designed for a lyrics bot in a game. The bot fetches lyrics using an external API and plays them in the game chat.
 HELP: https://discord.gg/XC96e3m36c
+STATUS: ❎
 
 ## Setup
 
