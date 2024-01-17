@@ -95,7 +95,7 @@ game:GetService('ReplicatedStorage').DefaultChatSystemChatEvents:WaitForChild('O
 end)
 
 task.spawn(function()
-    while task.wait(60) do
+    while task.wait(20) do
         if state == "saying" then
             sendMessage('I am a lyrics bot! Type ">lyrics SongName by Artist" and I will sing the song for you!')
             task.wait(2)
